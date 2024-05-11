@@ -291,6 +291,11 @@ zigbeeManufacturer:
     manufacturer: _TZE200_ztc6ggyl
     deviceProfileName: normal-presenceSensor-v1
     deviceLabel: Presence Sensor
+  - id: TS0225/_TZE200_2aaelwxk
+    model: TS0225
+    manufacturer: _TZE200_2aaelwxk
+    deviceProfileName: normal-presenceSensor-v1
+    deviceLabel: Presence Sensor
   - id: TS0601/_TZE204_ac0fhfiq
     model: TS0601
     manufacturer: _TZE204_ac0fhfiq
