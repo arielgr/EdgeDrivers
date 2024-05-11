@@ -47,7 +47,7 @@ preferences:
       default: error
   - name: manufacturer
     title: Manufacturer
-    description: Choose the manufacturer
+    description: "Choose the manufacturer"
     required: false
     preferenceType: enumeration
     definition:
@@ -57,6 +57,7 @@ preferences:
         _TZE200_ztc6ggyl: _TZE200_ztc6ggyl (1,104)
         _TZE204_sxm7l9xa: _TZE204_sxm7l9xa (105,104)
         _TZE204_ztc6ggyl: _TZE204_ztc6ggyl (1,104)
+        _TZE200_2aaelwxk: _TZE200_2aaelwxk (1,106)
   - preferenceId: reverse
     explicit: true
   - name: prefSensitivity
