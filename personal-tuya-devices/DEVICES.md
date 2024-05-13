@@ -57,7 +57,7 @@
 | TS0601  | \_TZE204_cjbofhxw     | Power Meter     | normal-powerMeter-v1       |  18,  19,  20, 101                                         |
 | TS0601  | \_TZE204_ntcy3xu1     | Smoke Detector  | normal-smokeDetector-v1    |   1, 101,  14                                              |
 | TS0601  | \_TZE204_sbyx0lm6     | Presence Sensor | normal-presenceSensor-v4   |   1,   2,   3,   4, 101, 102, 104, 107, 108, 109, 111, 115 |
-| TS0225  | \_TZE200_2aaelwxk     | Presence Sensor | normal-presenceSensor-v1   |   1,   2,   3,   4, 101, 102, 103, 104, 105, 106, 107      |
+| TS0225  | \_TZE200_2aaelwxk     | Presence Sensor | normal-presenceSensor-v1   |   1, 2, 3, 4, 101, 102, 104, 105, 106, 107, 108, 109, 112  |
 | TS0601  | \_TZE204_sxm7l9xa     | Presence Sensor | normal-presenceSensor-v1   | 105, 106, 108, 107, 111, 110, 104                          |
 | TS0601  | \_TZE204_t1blo2bj     | Alarm           | normal-alarm-v1            |  13,   5,  15,  21,   7                                    |
 | TS0601  | \_TZE204_vqaajp1a     | Smart Valve     | normal-valve-v2            |   1,  20,  21,  22,  23                                    |
