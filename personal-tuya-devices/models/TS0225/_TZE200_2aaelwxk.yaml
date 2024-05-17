@@ -64,8 +64,8 @@ datapoints:
   #  base:
   #    group: 2
   #    name: static_sensitivity
-  #- id: 112
-  #  command: switch
-  #  base:
-  #    group: 2
-  #    name: reset_settings
+  - id: 112
+    command: enum
+    base:
+      group: 2
+      name: reset_settings
