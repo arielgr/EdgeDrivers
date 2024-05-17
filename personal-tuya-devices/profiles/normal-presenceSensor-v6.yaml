@@ -14,8 +14,8 @@ components:
         version: 1
       - id: signalStrength
         version: 1
-      - id: valleyboard16460.datapointValue
-        version: 1
+  #    - id: valleyboard16460.datapointValue
+  #      version: 1
       - id: refresh
         version: 1
       - id: valleyboard16460.debug
@@ -117,6 +117,16 @@ preferences:
       options:
         1: "On"
         0: "Off"
+      default: 0
+  - name: prefResetSettings
+    title: Reset Settings
+    description: Reset all settings to defaults (set by device manufacturer)
+    required: true
+    preferenceType: enumeration
+    definition:
+      options:
+        1: "Reset"
+        0: "None"
       default: 0
   - name: dpPresenceSensorMain01
     title: DP for Presence Sensor
