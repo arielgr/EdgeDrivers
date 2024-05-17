@@ -39,33 +39,33 @@ datapoints:
     base:
       group: 2
       name: medium_distance
-  - id: 105
-    command: value
-    base:
-      group: 2
-      name: medium_sensitivity
+  #- id: 105
+  #  command: value
+  #  base:
+  #    group: 2
+  #    name: medium_sensitivity
   - id: 106
     command: illuminanceMeasurementRaw
     base:
       group: 1
       name: illuminance
   - id: 107
-    command: switch
+    command: enum
     base:
       group: 2
-      name: indicator
-  - id: 108
-    command: value
-    base:
-      group: 2
-      name: static_distance
-  - id: 109
-    command: value
-    base:
-      group: 2
-      name: static_sensitivity
-  - id: 112
-    command: switch
-    base:
-      group: 2
-      name: reset_settings
+      name: status_indication
+  #- id: 108
+  #  command: value
+  #  base:
+  #    group: 2
+  #    name: static_distance
+  #- id: 109
+  #  command: value
+  #  base:
+  #    group: 2
+  #    name: static_sensitivity
+  #- id: 112
+  #  command: switch
+  #  base:
+  #    group: 2
+  #    name: reset_settings
