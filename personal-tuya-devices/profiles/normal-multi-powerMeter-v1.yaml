@@ -14,8 +14,10 @@ components:
         version: 1
       - id: valleyboard16460.debug
         version: 1
+    categories:
+      - name: Energy Meter
   - id: main02 
-    label: Power Meter 1
+    label: Power Meter
     capabilities:
       - id: powerMeter
         version: 1
@@ -24,9 +26,9 @@ components:
       - id: voltageMeasurement
         version: 1  
     categories:
-      - name: Power Meter
+      - name: Power Meter 1
   - id: main03
-    label: Power Meter 2
+    label: Power Meter
     capabilities:
       - id: powerMeter
         version: 1
@@ -35,9 +37,9 @@ components:
       - id: voltageMeasurement
         version: 1
     categories:
-      - name: Power Meter
+      - name: Power Meter 2
   - id: main04
-    label: Power Meter 3
+    label: Power Meter
     capabilities:
       - id: powerMeter
         version: 1
@@ -46,7 +48,7 @@ components:
       - id: voltageMeasurement
         version: 1
     categories:
-      - name: Power Meter
+      - name: Power Meter 3
 preferences:
   - name: profile
     title: Profile
