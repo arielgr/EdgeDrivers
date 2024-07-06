@@ -7,7 +7,7 @@ datapoints:
   - id: 6
     command: voltCurrPowerRaw # voltageMeasurement + currentMeasurement + powerMeter
     base:
-      group: 1
+      group: 2
   - id: 1
     command: energyMeter
     base:
@@ -16,8 +16,8 @@ datapoints:
   - id: 7
     command: voltCurrPowerRaw # voltageMeasurement + currentMeasurement + powerMeter
     base:
-      group: 2
+      group: 3
   - id: 8
     command: voltCurrPowerRaw # voltageMeasurement + currentMeasurement + powerMeter
     base:
-      group: 3
+      group: 4
